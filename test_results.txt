@@ -1,0 +1,18 @@
+Accuracy: 0.8864
+Precision: 0.9063
+Recall: 0.8864
+F1 Score: 0.8849
+
+Classification Report:
+              precision    recall  f1-score   support
+
+     не лицо       1.00      0.77      0.87       380
+        лицо       0.82      1.00      0.90       386
+
+    accuracy                           0.89       766
+   macro avg       0.91      0.89      0.88       766
+weighted avg       0.91      0.89      0.88       766
+
+Confusion Matrix:
+[[294  86]
+ [  1 385]]
